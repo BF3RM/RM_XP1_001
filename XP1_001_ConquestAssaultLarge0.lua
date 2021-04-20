@@ -1,3 +1,4 @@
+return[[
 {
 	"header": {
 		"requiredBundles": {
@@ -8555,4 +8556,4 @@
 			}
 		}
 	]
-}
+}]]
