@@ -899,48 +899,6 @@ return[[
 		},
 		{
 			"blueprintCtrRef": {
-				"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-				"typeName": "ObjectBlueprint",
-				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
-				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923"
-			},
-			"origin": 2,
-			"guid": "c5e28abb-1793-208e-0638-c87c481e78c0",
-			"originalRef": {},
-			"variation": 0,
-			"overrides": {},
-			"transform": {
-				"left": {
-					"x": 0.092084623873234,
-					"y": 0,
-					"z": 0.99575120210648
-				},
-				"up": {
-					"x": 0,
-					"y": 1,
-					"z": 0
-				},
-				"forward": {
-					"x": -0.99575120210648,
-					"y": 0,
-					"z": 0.092084623873234
-				},
-				"trans": {
-					"x": -199.58612060547,
-					"y": 162.93872070312,
-					"z": -225.96284484863
-				}
-			},
-			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-			"parentData": {
-				"guid": "00000000-0000-0000-0000-000000000000",
-				"typeName": "custom_root",
-				"partitionGuid": "00000000-0000-0000-0000-000000000000",
-				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000"
-			}
-		},
-		{
-			"blueprintCtrRef": {
 				"name": "Objects/HescoBarrier_01/HescoBarrier_01",
 				"typeName": "ObjectBlueprint",
 				"instanceGuid": "E0ED4088-CFBA-4C7C-F773-8A088D542124",
@@ -1100,48 +1058,6 @@ return[[
 				}
 			},
 			"name": "Objects/CatwalkSystem_01/CWS_Railing256",
-			"parentData": {
-				"guid": "00000000-0000-0000-0000-000000000000",
-				"typeName": "custom_root",
-				"partitionGuid": "00000000-0000-0000-0000-000000000000",
-				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000"
-			}
-		},
-		{
-			"blueprintCtrRef": {
-				"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-				"typeName": "ObjectBlueprint",
-				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
-				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923"
-			},
-			"origin": 2,
-			"guid": "0fe465ee-99a5-1cee-4cbe-4621f6a53b75",
-			"originalRef": {},
-			"variation": 0,
-			"overrides": {},
-			"transform": {
-				"left": {
-					"x": 0.99305868148804,
-					"y": 0,
-					"z": 0.1176196411252
-				},
-				"up": {
-					"x": 0,
-					"y": 1,
-					"z": 0
-				},
-				"forward": {
-					"x": -0.1176196411252,
-					"y": 0,
-					"z": 0.99305868148804
-				},
-				"trans": {
-					"x": -188.52558898926,
-					"y": 162.93872070312,
-					"z": -218.76150512695
-				}
-			},
-			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
 			"parentData": {
 				"guid": "00000000-0000-0000-0000-000000000000",
 				"typeName": "custom_root",
@@ -1314,48 +1230,6 @@ return[[
 				"typeName": "WorldPartData",
 				"partitionGuid": "FF1D4887-EE82-47CB-951C-5810F606B7C0",
 				"primaryInstanceGuid": "A6AE3D53-A3F0-40B0-A02A-02DF4C3F36AE"
-			}
-		},
-		{
-			"blueprintCtrRef": {
-				"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-				"typeName": "ObjectBlueprint",
-				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
-				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923"
-			},
-			"origin": 2,
-			"guid": "034bbdb0-b7c2-2e56-ca12-69752a00ef95",
-			"originalRef": {},
-			"variation": 0,
-			"overrides": {},
-			"transform": {
-				"left": {
-					"x": -0.0081168366596103,
-					"y": 0,
-					"z": -0.99996703863144
-				},
-				"up": {
-					"x": 0,
-					"y": 1,
-					"z": 0
-				},
-				"forward": {
-					"x": 0.99996703863144,
-					"y": 0,
-					"z": -0.0081168366596103
-				},
-				"trans": {
-					"x": -28.655426025391,
-					"y": 150.89956665039,
-					"z": -218.17839050293
-				}
-			},
-			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-			"parentData": {
-				"guid": "00000000-0000-0000-0000-000000000000",
-				"typeName": "custom_root",
-				"partitionGuid": "00000000-0000-0000-0000-000000000000",
-				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000"
 			}
 		},
 		{
@@ -1888,47 +1762,6 @@ return[[
 			}
 		},
 		{
-			"originalRef": {},
-			"blueprintCtrRef": {
-				"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-				"typeName": "ObjectBlueprint",
-				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
-				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923"
-			},
-			"variation": 0,
-			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-			"guid": "8557136b-43e1-bc86-2ea0-17f973e80856",
-			"transform": {
-				"left": {
-					"x": 1,
-					"y": 0,
-					"z": 0
-				},
-				"up": {
-					"x": 0,
-					"y": 1,
-					"z": 0
-				},
-				"forward": {
-					"x": 0,
-					"y": 0,
-					"z": 1
-				},
-				"trans": {
-					"x": -197.61264038086,
-					"y": 162.93872070312,
-					"z": -224.21617126465
-				}
-			},
-			"origin": 2,
-			"parentData": {
-				"guid": "00000000-0000-0000-0000-000000000000",
-				"typeName": "custom_root",
-				"partitionGuid": "00000000-0000-0000-0000-000000000000",
-				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000"
-			}
-		},
-		{
 			"blueprintCtrRef": {
 				"name": "Objects/HescoBarrier_01/HescoBarrier_01",
 				"typeName": "ObjectBlueprint",
@@ -2296,48 +2129,6 @@ return[[
 				}
 			},
 			"name": "Objects/InvisibleCollision_02/block_10m",
-			"parentData": {
-				"guid": "00000000-0000-0000-0000-000000000000",
-				"typeName": "custom_root",
-				"partitionGuid": "00000000-0000-0000-0000-000000000000",
-				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000"
-			}
-		},
-		{
-			"blueprintCtrRef": {
-				"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-				"typeName": "ObjectBlueprint",
-				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
-				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923"
-			},
-			"origin": 2,
-			"guid": "79afbc12-0cf1-e56a-463b-1798f3aeb339",
-			"originalRef": {},
-			"variation": 0,
-			"overrides": {},
-			"transform": {
-				"left": {
-					"x": 0.025132868438959,
-					"y": 0,
-					"z": -0.99968409538269
-				},
-				"up": {
-					"x": 0,
-					"y": 1,
-					"z": 0
-				},
-				"forward": {
-					"x": 0.99968409538269,
-					"y": 0,
-					"z": 0.025132868438959
-				},
-				"trans": {
-					"x": -28.630922317505,
-					"y": 150.89956665039,
-					"z": -221.01034545898
-				}
-			},
-			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
 			"parentData": {
 				"guid": "00000000-0000-0000-0000-000000000000",
 				"typeName": "custom_root",
@@ -3473,48 +3264,6 @@ return[[
 			}
 		},
 		{
-			"blueprintCtrRef": {
-				"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-				"typeName": "ObjectBlueprint",
-				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
-				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923"
-			},
-			"origin": 2,
-			"guid": "67b15df4-2050-2ac5-08b4-0497cb2bea1d",
-			"originalRef": {},
-			"variation": 0,
-			"overrides": {},
-			"transform": {
-				"left": {
-					"x": 0,
-					"y": 0,
-					"z": -1
-				},
-				"up": {
-					"x": 0,
-					"y": 1,
-					"z": 0
-				},
-				"forward": {
-					"x": 1,
-					"y": 0,
-					"z": 0
-				},
-				"trans": {
-					"x": -28.643112182617,
-					"y": 150.89956665039,
-					"z": -203.72222900391
-				}
-			},
-			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-			"parentData": {
-				"guid": "00000000-0000-0000-0000-000000000000",
-				"typeName": "custom_root",
-				"partitionGuid": "00000000-0000-0000-0000-000000000000",
-				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000"
-			}
-		},
-		{
 			"originalRef": {},
 			"blueprintCtrRef": {
 				"name": "Objects/Matress_01/Matress_01",
@@ -4322,48 +4071,6 @@ return[[
 		},
 		{
 			"blueprintCtrRef": {
-				"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-				"typeName": "ObjectBlueprint",
-				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
-				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923"
-			},
-			"origin": 2,
-			"guid": "cec51ec6-4fcc-1445-08bb-a205107508ab",
-			"originalRef": {},
-			"variation": 0,
-			"overrides": {},
-			"transform": {
-				"left": {
-					"x": 0.076880298554897,
-					"y": 0,
-					"z": -0.99704033136368
-				},
-				"up": {
-					"x": 0,
-					"y": 1,
-					"z": 0
-				},
-				"forward": {
-					"x": 0.99704033136368,
-					"y": 0,
-					"z": 0.076880298554897
-				},
-				"trans": {
-					"x": -28.673917770386,
-					"y": 150.89956665039,
-					"z": -191.71301269531
-				}
-			},
-			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-			"parentData": {
-				"guid": "00000000-0000-0000-0000-000000000000",
-				"typeName": "custom_root",
-				"partitionGuid": "00000000-0000-0000-0000-000000000000",
-				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000"
-			}
-		},
-		{
-			"blueprintCtrRef": {
 				"name": "Architecture/BridgeConcrete_01/BridgeConcrete_01_Pillar",
 				"typeName": "ObjectBlueprint",
 				"instanceGuid": "CDB7C9B2-49CE-D401-8424-7AB1F4B050F3",
@@ -4825,48 +4532,6 @@ return[[
 		},
 		{
 			"blueprintCtrRef": {
-				"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-				"typeName": "ObjectBlueprint",
-				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
-				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923"
-			},
-			"origin": 2,
-			"guid": "a941e8b0-fd19-124c-0674-7cc93754a8b9",
-			"originalRef": {},
-			"variation": 0,
-			"overrides": {},
-			"transform": {
-				"left": {
-					"x": 0,
-					"y": 0,
-					"z": -1
-				},
-				"up": {
-					"x": 0,
-					"y": 1,
-					"z": 0
-				},
-				"forward": {
-					"x": 1,
-					"y": 0,
-					"z": 0
-				},
-				"trans": {
-					"x": -28.728937149048,
-					"y": 150.89956665039,
-					"z": -194.65846252441
-				}
-			},
-			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-			"parentData": {
-				"guid": "00000000-0000-0000-0000-000000000000",
-				"typeName": "custom_root",
-				"partitionGuid": "00000000-0000-0000-0000-000000000000",
-				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000"
-			}
-		},
-		{
-			"blueprintCtrRef": {
 				"name": "Objects/HescoBarrier_01/HescoBarrier_01",
 				"typeName": "ObjectBlueprint",
 				"instanceGuid": "E0ED4088-CFBA-4C7C-F773-8A088D542124",
@@ -4983,48 +4648,6 @@ return[[
 				}
 			},
 			"name": "Objects/InvisibleCollision_02/block_10m",
-			"parentData": {
-				"guid": "00000000-0000-0000-0000-000000000000",
-				"typeName": "custom_root",
-				"partitionGuid": "00000000-0000-0000-0000-000000000000",
-				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000"
-			}
-		},
-		{
-			"blueprintCtrRef": {
-				"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-				"typeName": "ObjectBlueprint",
-				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
-				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923"
-			},
-			"origin": 2,
-			"guid": "3642effa-27db-c2eb-9409-9761ddb78b98",
-			"originalRef": {},
-			"variation": 0,
-			"overrides": {},
-			"transform": {
-				"left": {
-					"x": 0,
-					"y": 0,
-					"z": -1
-				},
-				"up": {
-					"x": 0,
-					"y": 1,
-					"z": 0
-				},
-				"forward": {
-					"x": 1,
-					"y": 0,
-					"z": 0
-				},
-				"trans": {
-					"x": -28.728937149048,
-					"y": 150.89956665039,
-					"z": -212.54571533203
-				}
-			},
-			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
 			"parentData": {
 				"guid": "00000000-0000-0000-0000-000000000000",
 				"typeName": "custom_root",
@@ -5200,48 +4823,6 @@ return[[
 			}
 		},
 		{
-			"blueprintCtrRef": {
-				"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-				"typeName": "ObjectBlueprint",
-				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
-				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923"
-			},
-			"origin": 2,
-			"guid": "5d0a1459-d20b-8ede-7601-4bb42a424d56",
-			"originalRef": {},
-			"variation": 0,
-			"overrides": {},
-			"transform": {
-				"left": {
-					"x": 0,
-					"y": 0,
-					"z": -1
-				},
-				"up": {
-					"x": 0,
-					"y": 1,
-					"z": 0
-				},
-				"forward": {
-					"x": 1,
-					"y": 0,
-					"z": 0
-				},
-				"trans": {
-					"x": -28.646528244019,
-					"y": 150.89956665039,
-					"z": -225.81442260742
-				}
-			},
-			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-			"parentData": {
-				"guid": "00000000-0000-0000-0000-000000000000",
-				"typeName": "custom_root",
-				"partitionGuid": "00000000-0000-0000-0000-000000000000",
-				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000"
-			}
-		},
-		{
 			"originalRef": {},
 			"blueprintCtrRef": {
 				"name": "XP_Raw/Props/Ladder_04/Ladder_04_5m_XP",
@@ -5358,48 +4939,6 @@ return[[
 				}
 			},
 			"origin": 2,
-			"parentData": {
-				"guid": "00000000-0000-0000-0000-000000000000",
-				"typeName": "custom_root",
-				"partitionGuid": "00000000-0000-0000-0000-000000000000",
-				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000"
-			}
-		},
-		{
-			"blueprintCtrRef": {
-				"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-				"typeName": "ObjectBlueprint",
-				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
-				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923"
-			},
-			"origin": 2,
-			"guid": "715a6e7f-a4a6-bbc3-cd79-756ccc61189e",
-			"originalRef": {},
-			"variation": 0,
-			"overrides": {},
-			"transform": {
-				"left": {
-					"x": 0,
-					"y": 0,
-					"z": -1
-				},
-				"up": {
-					"x": 0,
-					"y": 1,
-					"z": 0
-				},
-				"forward": {
-					"x": 1,
-					"y": 0,
-					"z": 0
-				},
-				"trans": {
-					"x": -28.685632705688,
-					"y": 150.89956665039,
-					"z": -188.87812805176
-				}
-			},
-			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
 			"parentData": {
 				"guid": "00000000-0000-0000-0000-000000000000",
 				"typeName": "custom_root",
@@ -6018,48 +5557,6 @@ return[[
 		},
 		{
 			"blueprintCtrRef": {
-				"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-				"typeName": "ObjectBlueprint",
-				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
-				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923"
-			},
-			"origin": 2,
-			"guid": "25fde583-756c-9f9e-e34f-d3cf97240def",
-			"originalRef": {},
-			"variation": 0,
-			"overrides": {},
-			"transform": {
-				"left": {
-					"x": 0.99922758340836,
-					"y": 0,
-					"z": -0.039296239614487
-				},
-				"up": {
-					"x": 0,
-					"y": 1,
-					"z": 0
-				},
-				"forward": {
-					"x": 0.039296239614487,
-					"y": 0,
-					"z": 0.99922758340836
-				},
-				"trans": {
-					"x": -194.37480163574,
-					"y": 162.93872070312,
-					"z": -224.21617126465
-				}
-			},
-			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-			"parentData": {
-				"guid": "00000000-0000-0000-0000-000000000000",
-				"typeName": "custom_root",
-				"partitionGuid": "00000000-0000-0000-0000-000000000000",
-				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000"
-			}
-		},
-		{
-			"blueprintCtrRef": {
 				"name": "XP_Raw/Ground/ConcreteDebris_02/ConcreteDebris_02_02",
 				"typeName": "ObjectBlueprint",
 				"instanceGuid": "269B1238-B6D3-58EC-7AF4-8DD8D672DB16",
@@ -6177,48 +5674,6 @@ return[[
 				}
 			},
 			"name": "Objects/InvisibleCollision_02/block_10m",
-			"parentData": {
-				"guid": "00000000-0000-0000-0000-000000000000",
-				"typeName": "custom_root",
-				"partitionGuid": "00000000-0000-0000-0000-000000000000",
-				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000"
-			}
-		},
-		{
-			"blueprintCtrRef": {
-				"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-				"typeName": "ObjectBlueprint",
-				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
-				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923"
-			},
-			"origin": 2,
-			"guid": "15d29aee-e453-43ab-2b0f-ec603153d406",
-			"originalRef": {},
-			"variation": 0,
-			"overrides": {},
-			"transform": {
-				"left": {
-					"x": 0.99656593799591,
-					"y": 0,
-					"z": 0.08280323445797
-				},
-				"up": {
-					"x": 0,
-					"y": 1,
-					"z": 0
-				},
-				"forward": {
-					"x": -0.08280323445797,
-					"y": 0,
-					"z": 0.99656593799591
-				},
-				"trans": {
-					"x": -185.70367431641,
-					"y": 162.93872070312,
-					"z": -218.10308837891
-				}
-			},
-			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
 			"parentData": {
 				"guid": "00000000-0000-0000-0000-000000000000",
 				"typeName": "custom_root",
@@ -6437,48 +5892,6 @@ return[[
 		},
 		{
 			"blueprintCtrRef": {
-				"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-				"typeName": "ObjectBlueprint",
-				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
-				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923"
-			},
-			"origin": 2,
-			"guid": "1d51c66e-3806-a7cf-991e-c6a77bc5837f",
-			"originalRef": {},
-			"variation": 0,
-			"overrides": {},
-			"transform": {
-				"left": {
-					"x": 0.93066263198853,
-					"y": 0,
-					"z": -0.36587858200073
-				},
-				"up": {
-					"x": 0,
-					"y": 1,
-					"z": 0
-				},
-				"forward": {
-					"x": 0.36587858200073,
-					"y": 0,
-					"z": 0.93066263198853
-				},
-				"trans": {
-					"x": -181.13066101074,
-					"y": 162.93872070312,
-					"z": -219.28224182129
-				}
-			},
-			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-			"parentData": {
-				"guid": "00000000-0000-0000-0000-000000000000",
-				"typeName": "custom_root",
-				"partitionGuid": "00000000-0000-0000-0000-000000000000",
-				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000"
-			}
-		},
-		{
-			"blueprintCtrRef": {
 				"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
 				"typeName": "ObjectBlueprint",
 				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
@@ -6605,48 +6018,6 @@ return[[
 		},
 		{
 			"blueprintCtrRef": {
-				"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-				"typeName": "ObjectBlueprint",
-				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
-				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923"
-			},
-			"origin": 2,
-			"guid": "158d7e1c-78c6-0fc0-6415-72ab0d15a2a3",
-			"originalRef": {},
-			"variation": 0,
-			"overrides": {},
-			"transform": {
-				"left": {
-					"x": 0.99656593799591,
-					"y": 0,
-					"z": 0.08280323445797
-				},
-				"up": {
-					"x": 0,
-					"y": 1,
-					"z": 0
-				},
-				"forward": {
-					"x": -0.08280323445797,
-					"y": 0,
-					"z": 0.99656593799591
-				},
-				"trans": {
-					"x": -191.60876464844,
-					"y": 162.93872070312,
-					"z": -224.28233337402
-				}
-			},
-			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-			"parentData": {
-				"guid": "00000000-0000-0000-0000-000000000000",
-				"typeName": "custom_root",
-				"partitionGuid": "00000000-0000-0000-0000-000000000000",
-				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000"
-			}
-		},
-		{
-			"blueprintCtrRef": {
 				"name": "Objects/HescoBarrier_01/HescoBarrier_01",
 				"typeName": "ObjectBlueprint",
 				"instanceGuid": "E0ED4088-CFBA-4C7C-F773-8A088D542124",
@@ -6722,47 +6093,6 @@ return[[
 				}
 			},
 			"name": "Objects/HescoBarrier_01/HescoBarrier_01",
-			"parentData": {
-				"guid": "00000000-0000-0000-0000-000000000000",
-				"typeName": "custom_root",
-				"partitionGuid": "00000000-0000-0000-0000-000000000000",
-				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000"
-			}
-		},
-		{
-			"originalRef": {},
-			"blueprintCtrRef": {
-				"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-				"typeName": "ObjectBlueprint",
-				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
-				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923"
-			},
-			"variation": 0,
-			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-			"guid": "705d951b-b58f-7064-e7d6-eafa0f8dc678",
-			"transform": {
-				"left": {
-					"x": 0,
-					"y": 0,
-					"z": -1
-				},
-				"up": {
-					"x": 0,
-					"y": 1,
-					"z": 0
-				},
-				"forward": {
-					"x": 1,
-					"y": 0,
-					"z": 0
-				},
-				"trans": {
-					"x": -28.728937149048,
-					"y": 150.89956665039,
-					"z": -231.48988342285
-				}
-			},
-			"origin": 2,
 			"parentData": {
 				"guid": "00000000-0000-0000-0000-000000000000",
 				"typeName": "custom_root",
@@ -7066,48 +6396,6 @@ return[[
 		},
 		{
 			"blueprintCtrRef": {
-				"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-				"typeName": "ObjectBlueprint",
-				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
-				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923"
-			},
-			"origin": 2,
-			"guid": "a02dd839-97f5-fb07-3613-7a03007aa3d4",
-			"originalRef": {},
-			"variation": 0,
-			"overrides": {},
-			"transform": {
-				"left": {
-					"x": 0.061420518904924,
-					"y": 0,
-					"z": -0.99811196327209
-				},
-				"up": {
-					"x": 0,
-					"y": 1,
-					"z": 0
-				},
-				"forward": {
-					"x": 0.99811196327209,
-					"y": 0,
-					"z": 0.061420518904924
-				},
-				"trans": {
-					"x": -28.728937149048,
-					"y": 150.89956665039,
-					"z": -206.8702545166
-				}
-			},
-			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-			"parentData": {
-				"guid": "00000000-0000-0000-0000-000000000000",
-				"typeName": "custom_root",
-				"partitionGuid": "00000000-0000-0000-0000-000000000000",
-				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000"
-			}
-		},
-		{
-			"blueprintCtrRef": {
 				"name": "Levels/XP5_001/Objects/Wood_beam_bridge_01",
 				"typeName": "ObjectBlueprint",
 				"instanceGuid": "04522DF1-A4D0-7418-4035-0C6A2D667AB1",
@@ -7309,48 +6597,6 @@ return[[
 				}
 			},
 			"name": "Objects/CatwalkSystem_01/CWS_Railing256",
-			"parentData": {
-				"guid": "00000000-0000-0000-0000-000000000000",
-				"typeName": "custom_root",
-				"partitionGuid": "00000000-0000-0000-0000-000000000000",
-				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000"
-			}
-		},
-		{
-			"blueprintCtrRef": {
-				"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-				"typeName": "ObjectBlueprint",
-				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
-				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923"
-			},
-			"origin": 2,
-			"guid": "0f9efc8a-0903-9d1a-247f-c9d8902375ae",
-			"originalRef": {},
-			"variation": 0,
-			"overrides": {},
-			"transform": {
-				"left": {
-					"x": 0,
-					"y": 0,
-					"z": -1
-				},
-				"up": {
-					"x": 0,
-					"y": 1,
-					"z": 0
-				},
-				"forward": {
-					"x": 1,
-					"y": 0,
-					"z": 0
-				},
-				"trans": {
-					"x": -28.627445220947,
-					"y": 150.89956665039,
-					"z": -209.70513916016
-				}
-			},
-			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
 			"parentData": {
 				"guid": "00000000-0000-0000-0000-000000000000",
 				"typeName": "custom_root",
@@ -7602,48 +6848,6 @@ return[[
 				}
 			},
 			"name": "XP_Raw/Ground/ConcreteDebris_02/ConcreteDebris_02_01",
-			"parentData": {
-				"guid": "00000000-0000-0000-0000-000000000000",
-				"typeName": "custom_root",
-				"partitionGuid": "00000000-0000-0000-0000-000000000000",
-				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000"
-			}
-		},
-		{
-			"blueprintCtrRef": {
-				"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-				"typeName": "ObjectBlueprint",
-				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
-				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923"
-			},
-			"origin": 2,
-			"guid": "15e0a7bc-790d-bec1-47f0-8a6837dd04be",
-			"originalRef": {},
-			"variation": 0,
-			"overrides": {},
-			"transform": {
-				"left": {
-					"x": -0.0025572942104191,
-					"y": 0,
-					"z": -0.99999672174454
-				},
-				"up": {
-					"x": 0,
-					"y": 1,
-					"z": 0
-				},
-				"forward": {
-					"x": 0.99999672174454,
-					"y": 0,
-					"z": -0.0025572942104191
-				},
-				"trans": {
-					"x": -28.728937149048,
-					"y": 150.89956665039,
-					"z": -200.88734436035
-				}
-			},
-			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
 			"parentData": {
 				"guid": "00000000-0000-0000-0000-000000000000",
 				"typeName": "custom_root",
@@ -8014,48 +7218,6 @@ return[[
 		},
 		{
 			"blueprintCtrRef": {
-				"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-				"typeName": "ObjectBlueprint",
-				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
-				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923"
-			},
-			"origin": 2,
-			"guid": "a3864602-afec-c41f-3e7f-5e501d58e022",
-			"originalRef": {},
-			"variation": 0,
-			"overrides": {},
-			"transform": {
-				"left": {
-					"x": 0.093945741653442,
-					"y": 0,
-					"z": -0.99557733535767
-				},
-				"up": {
-					"x": 0,
-					"y": 1,
-					"z": 0
-				},
-				"forward": {
-					"x": 0.99557733535767,
-					"y": 0,
-					"z": 0.093945741653442
-				},
-				"trans": {
-					"x": -28.728937149048,
-					"y": 150.89956665039,
-					"z": -228.64930725098
-				}
-			},
-			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-			"parentData": {
-				"guid": "00000000-0000-0000-0000-000000000000",
-				"typeName": "custom_root",
-				"partitionGuid": "00000000-0000-0000-0000-000000000000",
-				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000"
-			}
-		},
-		{
-			"blueprintCtrRef": {
 				"name": "Objects/HescoBarrier_01/HescoBarrier_01",
 				"typeName": "ObjectBlueprint",
 				"instanceGuid": "E0ED4088-CFBA-4C7C-F773-8A088D542124",
@@ -8131,48 +7293,6 @@ return[[
 				}
 			},
 			"name": "Objects/InvisibleCollision_02/block_10m",
-			"parentData": {
-				"guid": "00000000-0000-0000-0000-000000000000",
-				"typeName": "custom_root",
-				"partitionGuid": "00000000-0000-0000-0000-000000000000",
-				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000"
-			}
-		},
-		{
-			"blueprintCtrRef": {
-				"name": "Objects/Sandbags/Sandbags_Wall_Straight",
-				"typeName": "ObjectBlueprint",
-				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
-				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923"
-			},
-			"origin": 2,
-			"guid": "dad6be0e-d171-a82d-16a3-464a2b32830e",
-			"originalRef": {},
-			"variation": 0,
-			"overrides": {},
-			"transform": {
-				"left": {
-					"x": 0.037778180092573,
-					"y": 0,
-					"z": -0.99928617477417
-				},
-				"up": {
-					"x": 0,
-					"y": 1,
-					"z": 0
-				},
-				"forward": {
-					"x": 0.99928617477417,
-					"y": 0,
-					"z": 0.037778180092573
-				},
-				"trans": {
-					"x": -28.656518936157,
-					"y": 150.89956665039,
-					"z": -215.33215332031
-				}
-			},
-			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
 			"parentData": {
 				"guid": "00000000-0000-0000-0000-000000000000",
 				"typeName": "custom_root",
